@@ -1,0 +1,31 @@
+{
+  "name": "sz-gp-vue-plugin",
+  "version": "1.0.0",
+  "main": "./src/main.plugin.js",
+  "private": false,
+  "typings": "./types/sz-gp-vue-plugin.d.ts",
+  "scripts": {
+    "serve": "vue-cli-service serve ./src/main.example.js",
+    "build": "vue-cli-service build ./src/main.example.js"
+  },
+  "dependencies": {
+    "core-js": "^3.3.2",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.0.0",
+    "@vue/cli-service": "^4.0.0",
+    "sass": "^1.19.0",
+    "sass-loader": "^8.0.0",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}

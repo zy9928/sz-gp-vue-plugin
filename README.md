@@ -1,19 +1,6 @@
 # sz-gp-vue-plugin
 
-## Project setup
-```
-npm install
-```
+### 名字安排
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![1574999964441](C:\Users\99283\AppData\Roaming\Typora\typora-user-images\1574999964441.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
